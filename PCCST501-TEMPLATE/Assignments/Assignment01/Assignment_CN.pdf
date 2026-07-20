@@ -1,0 +1,479 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 12 0 R 15 0 R 17 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6183
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 284.9618 18.4252 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 786.2835 cm
+Q
+q
+1 0 0 1 48.51969 764.2835 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 51.10011 0 Td (HOW THE INTERNET DELIVERS A WEB PAGE) Tj T* -51.10011 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 742.2835 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 11 Tf 14 TL 74.57011 0 Td (A Technical Study of Accessing Google Search through a Web Browser) Tj T* -74.57011 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 717.2835 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assignment Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 661.2835 cm
+q
+BT 1 0 0 1 0 40.9 Tm -0.024654 Tw 12.5 TL /F1 9.1 Tf 0 0 0 rg (This report explains what happens when a user enters ) Tj /F2 9.1 Tf (www.google.com) Tj /F1 9.1 Tf ( in a web browser and presses Enter. The process) Tj T* 0 Tw .343515 Tw (involves several Internet protocols working together across the five-layer TCP/IP model. The report discusses DNS, HTTP,) Tj T* 0 Tw .509741 Tw (TCP, client\226server architecture, cookies, HTTP and FTP, and the complete communication path between the browser and) Tj T* 0 Tw (the web server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 642.7835 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12.5 TL /F2 9.1 Tf 0 0 0 rg (Website Chosen:) Tj /F1 9.1 Tf ( Google Search \(www.google.com\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 619.7835 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (1. TCP/IP PROTOCOL STACK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 588.7835 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.9 Tm /F1 9.1 Tf 12.5 TL 1.519825 Tw (The TCP/IP protocol stack is a layered model that describes how data is prepared, transmitted, routed, delivered, and) Tj T* 0 Tw (received across the Internet. Each layer performs a particular function and works with the layers above and below it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 372.185 cm
+n 0 170.0787 396.8504 42.51969 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 148.8114 195.5906 Tm (APPLICATION LAYER) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 135.7732 180.7087 Tm (HTTP/HTTPS \177 DNS \177 FTP \177 SMTP) Tj T* ET
+n 0 127.5591 396.8504 42.51969 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 151.4524 153.0709 Tm (TRANSPORT LAYER) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 178.3572 138.189 Tm (TCP \177 UDP) Tj T* ET
+n 0 85.03937 396.8504 42.51969 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 156.4684 110.5512 Tm (NETWORK LAYER) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 181.0212 95.66929 Tm (IP \177 ICMP) Tj T* ET
+n 0 42.51969 396.8504 42.51969 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 155.4139 68.0315 Tm (DATA LINK LAYER) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 157.0132 53.14961 Tm (Ethernet \177 Wi) Tj /F3 8 Tf 9.6 TL (n) Tj /F1 8 Tf 9.6 TL (Fi \177 PPP) Tj T* ET
+n 0 0 396.8504 42.51969 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 156.9909 25.51181 Tm (PHYSICAL LAYER) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 144.9412 10.62992 Tm (Cables \177 Fibre \177 Radio Signals) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 404.8504 204.5984 Tm (Higher-level services) Tj T* ET
+BT 1 0 0 1 404.8504 2 Tm (Physical transmission) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 369.3504 cm
+Q
+q
+1 0 0 1 62.3622 226.6504 cm
+q
+.827451 .827451 .827451 rg
+n 0 142.7 470.5512 -15.7 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 114.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 104.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (Provides services directly to applications. HTTP/HTTPS enables web) Tj T* (communication, while DNS resolves domain names.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 104.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (HTTP, HTTPS, DNS, FTP,) Tj T* (SMTP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 88.9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Transport) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 79.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (Provides process-to-process communication. TCP provides reliable) Tj T* (delivery, while UDP is designed for low-overhead communication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 88.9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.8 Tf 9.7 TL (TCP, UDP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Network) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 53.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (Provides logical addressing and routing so packets can travel between) Tj T* (different networks to reach the destination.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.8 Tf 9.7 TL (IP, ICMP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 38.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Data Link) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 28.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (Transfers frames between directly connected devices and handles MAC) Tj T* (addressing, framing, and error detection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 38.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.8 Tf 9.7 TL (Ethernet, Wi) Tj /F3 7.8 Tf 9.7 TL (n) Tj /F1 7.8 Tf 9.7 TL (Fi, PPP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 12.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 7.8 Tf 9.7 TL (Physical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.87402 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.6 Tm /F1 7.8 Tf 9.7 TL (Carries raw bits through physical media such as copper cables, optical) Tj T* (fibre, or wireless signals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 12.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.8 Tf 9.7 TL (Cables, fibre, radio) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 142.7 m 470.5512 142.7 l S
+n 0 0 m 470.5512 0 l S
+n 0 0 m 0 142.7 l S
+n 470.5512 0 m 470.5512 142.7 l S
+n 0 127 m 470.5512 127 l S
+n 0 101.6 m 470.5512 101.6 l S
+n 0 76.2 m 470.5512 76.2 l S
+n 0 50.8 m 470.5512 50.8 l S
+n 0 25.4 m 470.5512 25.4 l S
+n 87.87402 0 m 87.87402 142.7 l S
+n 357.1654 0 m 357.1654 142.7 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 18 Tf
+21.6 TL
+ET
+BT
+1 0 0 1 230.1288 785.1969 Tm
+(ASSIGNMENT 1) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2409
+>>
+stream
+GatU4?'F!P&q/*0kdMj^)$fbA+E%\K,htK!b^q4AXdU&c/O28o?mRfas*hR+)=3b:YbY/3#$Yg_Fe:kRN=R'-kF;M3%,a0uG9;5%]+D*[msBJ=DBXtqr:S(C):=AI(V&Z'e9<7NUV8Ysr"8]KYMU@nKa_,qCsA[N(8CgroH2fV#F_Z9oLIcR*sZ9min")O(a9*1h(c+p\o,._4gOhM6PoZl_.F7c\fTYNQg\@/5Q;]UU=oGh7%ZfU\\FWXjtNF_KeSudpFr#QliAFl2iDXcCr#j1TL#acW.Di.G[l?bon'G56nCFlQ8]pCjI`^?'>3T?d#'_$DMjC0*9Jg4YhUbR1O*XXm\dOe--K<21fqJ#;e@SqP+3ib3TZ@TD)lGH\LrEoF:4B[Ot5Y1Up37OnHPA\0%V7Wj=c:e[G1)]F]#5=m_qV,QIPuE5UbPa#qfXd8D*KBM\,ASaYTMOF4l<(7c:&3lWk[K!ZK2'>f9<o,0*]5PsWnN)Ape>FY>]lHfJHLr=8e>1+^69UD%(P<KWRO`If^N4SJa<@tVVU7hH59KRXn@hZJaPWR,!7f3Be=3Z'(G)HT&E@Y]lC-O:B*2EJR&Gf/RF$A;HA(,8I=ck&!\>hda!@((["^aKS-aFT,h4U#\&P^1\8B,+W'0c^!-P[t`U'4Xe#Mn\.Y9QCPHY0'`8Uh7A[0f@MtcPjp%N+Eg^U^AZS,[O?[/bZQ?\UcV^,Q\"3>aI39)b@!tHR=!r)<=\%lj0h-Yr8(8)@$AY-A\LmbN]Pcs+54k12_J3D+OK.HN$l[B\h0Yc=KlQeY8u0+E/u@>A1VD65qf>?>/:*Is-9'_e5OV8Y9#*=Nd&r0J=9'#$*9Las%cm[On:e\V=`<1X%)f!8**\>JaeQU&OsAoH">bI[P1)-om=>2Hk`d9N,J[8OQ"k@PK;3bU=i9WltnU5&0:jb7Y&6XcOm!.%9=<B/&VBk0A0$'kZs5q_.FfMB606KZ@YK"'Cp+i?+->1;X*8K7?\7g#p^]YV4u._rP<P#,6"+bmbfoN[n,#T\g,P<iX7K?"UUWQ,U4",k)Hn`N$RlICl)c[6fC*G!^-4M7Pd1bU'<0!#?FJ>^DC.GeQBZND4fc18&l`:j"#m67eur2)L.fWK],U)^n.HmLR0b35Ps]X>`R7"]HT3;R$jHQSk,7]i>o32ph>++7TILcggX,jG-nH09`G*VnFm1HfobTlQXO#!c])*D6V5'cB<K6O->2"GoE)'EkH)Jr;Krc<r_/YT^j&aj4>WW*Q4C:c<taDe2prc8!P(.b&#rCr5!X9+/7nL]sX,m+3OmLO'oS=k*?=0FGogJ>NN'&eUrJ>mV^c5>qXn$?hTI2@k"jth.087*f_7`7#!iP;O#HVn8N[BL2*"j3Wn:&##X4J%]uauVYJOAWYI_:5iLP)kEK)'#;tP'#dmC[^1*b#12V&?MqH;]9$k,Q+mrR&M5CgQYdj]q]*Y`.$?'R@le;u_jL`%Eq.r*KB(pBAE5+(]3!2p"HkO`NeA'JsN]N1E#j`ZePZ=\:!o3,hSS4JmYUsIgII<7EkL>=+EJ_pM[rI_$9)()KR\=,c!\(YRi7c2n4;BM!!<5.;Y^F^#FWsKrDo<gK`kXq+jZGFtXHG8"=`Su!6dFVu6uCRXIR]g[)uaf<W7:XAakbR;4LOF&@>/(f3PTh)Yq[r7RJm+85^nL1oRE2GY^SRKq),qb!g&atR3%c:Uel(91&U"PPc>Sk]p'H3r\-=/'ZuP?@t#hhXutj+l9YA,NL?3]\k3UXRaUh)nQ5(^;kC(1cHEW[Tof7(+YtTh,iYj[XX2Lk;e+ZTVQ5a?GP]59aH`Ia1rt>*ksItL1%2ZP%Sdb87*"!1V&g/^EBGFbM^;_s1`)Y#/AiW$djbH+;=&./Y#72$a<GK9P%*>7q*E%m%gk]BS+1,c/IaaQ8*WnDX-jb#dK4?T(0I"=;_=p`EDd.;15.SIh;[Ll9$+1L3Cu.8#SbSPn\u?XVVE/\-$/HqImt1:N\C?6"Quu1@esdSL"#7*&\a%bm4=bt:Yfom$l>PR`>OFA:Nu_$R?AmPh?]*"-!*5ZT"K8-CbVA>F`dTP8IRgVP)_clq4h"#--h[2]!iLSPfU*10MQB6!-kZ)rCti==B.*Kcl1QUmAf?Ck?7]/lb">c:/]!&lNh4:*S6Xfc3Z:.18SPrI7HXY<Lf<*q@X^\1R@JMI(YI+%M]GL>%FM$&n^E(`+k"6&asCVZ"DlMl4*SB4WZSL=1Yo9:H-\M:Hl9)[S1EJMllqp+lR%+1<:):fmII@X)X&.Ur]MrRi]f/:muF[Y""$iB1S1tR]HiXcI$30nc`-T;s0rPa$6+Y5AY.?f8_FYY1PkM4f`2-2Imc_Kkl5m[,HC%1]+p8`BOReqWnTL<5*@CY,ZU578Vpe59Hpp]`~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 4387
+>>
+stream
+GatU6>Beg[&q9SY^tX0^*/"=.g\*(9Ph'-\FtI:3%t1-#fO@41.S8=drq`2%NM'hJigcT$p2C9Gk5/aE6\(:!raY5+YpADjN4f27#ifH=:RIf,bV%"JG4O7AH'70>N5e<s;J([AWM!D<;Sl<]GQ]6BaluP!+A)?(1Ad9ZI_lnMLS=&R,,Gmpif#/PWefX;9Rt07HJC^ZK*N[?n_ScXKS@Q,A\i(SanbUrRh)tEe*AOTEAIDLR9Yk]B<rQJiT_*P4M)KUrUT;p7'h<JUF2AM!uY[m!)=bMJsn6ok;X@$>=n7OIR3PTW[`q>0:VfDPs<HXXP0OiMPf[aaPFETrBcf%=ls9i<pOqZFL"i?'[:[/Y0F#Cl^o\T!5m+*qg7#=\u2_a.1'Z+a%VRS#\i@c6rT\5Llor3@?EF](BIo37.?'>6h67+1a+R3rD+YN-sd%&l&HM(R6VO8D2/K:bq+MS2)Ipi#=$DE?aoUVA[*AN@?UW2'F<-fj7=OnN5n/iKO$tJap)c'p5;G%rU/Y6n'61q`iWkC`^F/q3EKamT#lE0P.W2Rf9Q"2H'3A:L9=[gKk@9kj4%QglBT/2<:4;o.,404Q9'6iJA%Rc=$G,Ao;XC/H!;2nq_kW>LlrN*\h>d[mUZ>CAPMa3m](pg;SeY<CL9"9^^C:4nL"#panpHkojlU[ICC<5K.#An`sk^-dQmU.WW'5mOpDX\d<%Sq)'n]1ih6e=N0Kl*?k)[?NL[lM0ejG<h7$,O&p]plQhuu*o!`oEHomP[`?<GKX1pZJ3f'$8f!=WAi&lae=Z(=L`u3\n_"!SHpc([gI_:-Z=>UFueb`)h=*^;0;ME@W)bA90AgLZhJ5/B;n)Y'4aEHMIgIh<#r+=8*E*B*:!tO%CSIi"]^WdeVjP:.m("et)SUJ%2,NmP?)>Pk6bbmm6Y50pU8Hp7uGG)u?gg#qdhWOceq>nc'X!EGKc-'-'IFFMOGIK2t`9>:T.Fq/]:%trI?$"mf@I:;AMspFc(Jl*PJ2[]O7%!-,?C24ok9ZA6?/%J-Ht\jSY]tlQ!IN,H-W`l58#gV\"G2K(G?%d=Q0A&K9"^_l$%H`Q0pT_h/c4_E/q3,hWqHa!VukF/>t0n@d5BJXNaoE=.?Sc#5-K-BEU3S4g3$>&*JE:'rM=CX4/nbM%!`5N,"Z,6ZE:sa8*P3Ne$:U+oj$H2<J6dWD_IOS)uT`6Z0V+M'1f0"?>7%lMIS6:aAb;4r("Ro*/mi[V,mn3!f>l#<W`#_,u?2hO-RLEcB's@;t[VJ(rrj)n"KU44qnEgPP7oPD'/=^]RKO_I[J*i[3U[[RbT"aRWu[am&4<A+.iN3>!Ee!J_.OSdg[Xgr-J;N3l:34?VI?XilfU6om\=LlZ@/?-NCcIgg3[Wc6rKN_C/)kYf?g18R?9@Bu\UI#14+H`o_V^3k0'q<u"l'&hE5/Ss2*KV+Vh2r?C_'p>;.>#o>U&/.K6k@Yk)]<;Va%-9k+7$i(3qYF6j-S\B[G@k!ag_mUSY%?)WJQ3O=oViqk62ABd&jL,hL/7BZl>"p0h6%<`PJ0n][csnV-%IF'*HdF!&hE<['Y$.f.e,jhl*+^:oePLMr`e*oh/5Wm&/0QuoZG^rqQ[b7-b-1AS-oO[;Ak*oM=Gb7?F^KfXMC;"!=2$@"+a"3.(1)$-/+`&^;q"cg0Hjf+.et_T^Ba9Xq6lA#&V</:LBrIsF7MuQ4B.K2opo6mhC7?@*KIj5^?HI%"m=YMn/+rr+BGX4D*nKeH@qJPSN(RO+=R$cLgg_sS]D\R6bmNa.[AQtoG)LLd"Z=gnte/K2e+>.%Kho(d?KO023C_<5&9j#I"@DF)51?uhk_24k(;9Kr3jsP@s#nk6%--\70d3cf@5(Gr_LfM@6sJ8S<<(i8=,On"Fp7<p$1Q7_sHCZML<.NrjI;gpd'0FWN)[V@0)AJN2%5QG8*><505RKVC_CN($KWUMo_)jpBPF]JMo&h,>"VPMA%At*5XaFM&ORZ"HC8H+`;C86aW/c_+BO#<[XqC&t/t9ce'@uZk=<IpE[tCj^cZfb*SM2\^A)jDu-Lo=e&1YpEiX5N7N@*i\,_!Ul;,Nf[$52&7?B)EPs'kUQ.GI4S/M$U$BO-$JsGW:W,(\_@4Edp[L(:HoX@IXD.ds&@+jf04T:eI,TW=i*g3BX3N#_`.@8c*lsqs%-mesWU>CTD=p/+*"&_tnmm\,<m-po80#]Gk(2m@/8ae<"3=^G3ZMZW1)e(3)h\(QC.`ATf2Rf$UWfHgVEl2_;?#(D0<lk[Mp3D?s56c@p4CPEjPjdi%iu$,7%3uM#Xq;7Vcf'&+YZZAnfS;`XV`YM9i'dDiFEuo4IJL^NUBVd2L,.=[X.l0&X;:Sn73M80NscaK>d;taZP#s1<Xo(q@FBGr]2505iN:U^;1>d'i3A8PTpLO'9G`"M\/6/X\AD228VD-eg:gSfZ.16&b)?2+);Id1h;^rdp&-d17n"]%VmH`YkDT3%6(jcbh:o_m;2I"%ML7_'&gsLKNTnMUd;kPZ'\h+_qL;Wp=dn!L2ZnRE3-qk%#W"n_Z,u>h^.u>VO0>$lU0!gKi"n4i1A*(/JdDGhWI)X_k,'SaDu9f6>JBQ8h8BXcaFg96ct\+Tb7e<$P1Yp'$AX)lQ3>YJ0\\4LF?`=*mH%Vhq(](NE.mSpb;:NguB,db>C3m//D]97D!]'>nJ85ZAf#nglV8,DUpZZ^##Ye[B(Mn%atqN*\V;5%_=C'J:_VjCU``:b6gUmO#0TjelAbh)&6t-WX0UtCbUB:*bEKE@Bi:6N89YLDT$7d.o1DWo'd2r*^IM,0H\"_fP2%4K41'2O+n%S24qh-"<<6W-MBtj>0s\tF@1f-3nmod:>MZ]`*#RI+;*W;R5tI3X)XFBU=i9.AWG0$[cOFqm:Hbhg/ucuh4p;>=X%6>RZ*R96$4^TF^*&bBVUJ/p[TSe#q./e$3erMKE:U!(5bB^"X.\WEKYQ%a@&K*fd'%MaQPm/Bk7]8ST%+4PpbU^!_)#`4$&#=8SL1(S>7!<FgC9XAf+pi/BXKK)1@TK)kaOB11tCaam=o?k\er*r]5G%9-K9?&YqM.@,*;5?SV1AKC+nB:sg6#\0H[l$S`/ZVQ6L!]K5IsE8u[Xl\!E4K>;lsK,asm5ig$R@%Z#U/f>o:aA1lK4NK&^DKH,KZbZasg$4-I70SS^:BitceZom0Oo])@o0=@-Nja-'J_F?-3hgZ6j6mBiYn-Elr.]T^<V\W2V[lBs:n7b>7JS(`_I30[(;kPNoB!K,jUmf<52$(Ll6HX5+)M$];oHP:$.u_oQM&KF):3O^&+)YpnSk6bba]+`g=B46m#Y^]l#@n8O")/C,V'^n[NZ5q-Z[Eg!tXJLo[=C0X+9%rIJe@6PdbhR_m\-T6:8u:0]T\i<^Y=br;:CmhMthZL&*''0qJOW;.*sIMqO8gDFEM=7N>jV9H9iH5cGQ3#B*)3/S>,@K@#625;`u["QElq#.^fi9^^g[054&fRS[l*@1[:WBW(!T$f\[q#%9Q!OGh,\c6>ppN8Dbd7X-efO=!*L):*6CQg-J''L6`(VI1c]d36(=F;S`9P/C?)'aRbG0hG8!RVK\2pGUGd+,4F7:\m&!PLt9'mD7ak+bWK$EnuIu]tGE"anROd+(WC/Se<TsNd_<+ma3]`47_o[l`Uu_VJY[*X1'!T/t*dYqR8&H?MVMKbngL%Ic>fZ+\\ECCL>sf0H@35SsMmMCPDVtCo.\1^nZ.mE$laM]$ja(n6c=^+L*qiF)q$Ac8)>M>TFrp]fLB\F8\8*`fl@e`oEJU5\6G2k:QI4*MD*WRF)$?p3I_LO?IK\^%61,=Y^6#bM(`&dQ"8%EV0mQoH#?c(HtFBkJ_X[NmmU.25_\]C7SstGHjm\6GjKmM"Z\=8T[Fn(1j>^\#3k`j2baFF_(f]IHf9"X&bZpAk$\sp`6F56!g9ec!;8G;m@13rUb`gd&40T_%?=I:^-h!#;qkXpJL&6K:32ZC9Gi8^J6GbY7<N(MJ/kFL`I-tY@$UlC#[E35J2H3=.SZOJ*Xh%L)l)IcGJ`>1XTL@m"$!u$2RC43?EVAG][`I5/$!k:*0M?e`@Qpf;Ep9;hAWo';70Qq*-NY`CN$NP\aA5:t8o<cSXnQ'gN$GUl*1I6>8+$(rG2Dr[nt3rSZnfD6m.d=X)9+4$-)2$q<\*9#XJ!Q?(ZcMPL'cnld+:%fZ0?:"r<:hHa?&9FBmVd%R0dH$l%9T_;"6Ja?FC..oSE!Jcr$AWQAZYD1[KD!p;]nqI8lX7=.F'iU[qJ=k""IW\U[pMsdTK<ef/L-&E,"J[HtW&&oV5:i;7XOM*um2/#ckHB.-c1hJo4X4gMmaWt(j_F>@.?1lP(Vn&Q6)"V1[VR^=6;ILj%2b8i~>
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 591
+>>
+stream
+GatUn6#YL3%#+0G(%4&!#M!j3a54(*M[_)CXEAHpW&C,iZ_^Wa'BJ&3EoJ5KG"Q1.#"8%PUE1^jroA=T4`F?Yl:sYmW*UWGOeTG-D)H[0*?moXPTi?Io;t,G,Xj3*>S`ET8<\uIH:/.K,buMZrC6H/'`;F>W?No^-Hj'?4ASA5j`<oLE'/mBnlS"dq#Jm)&>bI5?Quek+iQPmZCJg:7%N%oFa,dPLXKkDVkmCb)UtYQ#MmtR[mn:&S>REWV*%`/RB>N):pgg\")l_E3kUR3&nra&NpI"+L,NmC/Dd%6SQFN@o>Q8G>UOM/(F..JmVXn-E92hZ"J0_QIkGJ>^#\U`_qLQJS:b#L#X5b`C\r7p4mG2r:p6NY-Kg)ogRua&)q/ZFTcZ>QL4#<XVDau,+c<_JrYaIY-2A9YEFR#h/\.0;QCKoX1Jn?(3$D"SFI[HYip&.agmMtHoTMf.-cTU[ki]5JOcL*G*pu>JgDpd/o\AKj3Q^j`_LFk!rUC/B*7GAWK3bERI9H'*BMJ/H<5)A_JmmL?ErJsra)PI`eHk$F"6O\CpmK]&41\D]`q#QRS#*@3N-;X'R/I355pq]~>
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000460 00000 n 
+0000006695 00000 n 
+0000006802 00000 n 
+0000006909 00000 n 
+0000007021 00000 n 
+0000007133 00000 n 
+0000007217 00000 n 
+0000007295 00000 n 
+0000007497 00000 n 
+0000009999 00000 n 
+0000010063 00000 n 
+0000010265 00000 n 
+0000014745 00000 n 
+0000014947 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+15630
+%%EOF
